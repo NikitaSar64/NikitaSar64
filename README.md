@@ -1,14 +1,11 @@
 ## Hi there 👋, I'm Nikita
-<br/>  
-
 ## **I'm Frontend Developer**
+---
 
 - :muscle: I like to write code and move pixels
 - :football: I love sports especially skiing and football
 - :book: I’m constantly learning new things
-
-<br/>  
-<br/> 
+- ---
 
 ### **Languages and Tools**
 <img align='left' alt='JavaScript' src='https://img.icons8.com/color/512/javascript.png' width="40" height="40">
@@ -19,10 +16,9 @@
 <img align='left' alt='CSS' src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-shadow-tal-revivo.png' width="40" height="40">
 <img align='left' alt='CSS' src='https://img.icons8.com/color/512/sass.png' width="40" height="40">
 
-<br/>  
-<br/>  
-<br/> 
-<br/> 
+<br>  
+<br>  
+
 
 ```javascript
 // some secret
