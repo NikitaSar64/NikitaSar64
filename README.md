@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hi there 👋, I'm Nikita
+<br/>  
 
-<!--
-**NikitaSar64/NikitaSar64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **I'm Frontend Developer**
 
-Here are some ideas to get you started:
+- :muscle: I like to write code and move pixels
+- :football: I love sports especially skiing and football
+- :book: I’m constantly learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
+<br/> 
+
+### **Languages and Tools**
+<img align='left' alt='JavaScript' src='https://img.icons8.com/color/512/javascript.png' width="40" height="40">
+<img align='left' alt='TypeScript' src='https://img.icons8.com/color/512/typescript.png' width="40" height="40">
+<img align='left' alt='React' src='https://img.icons8.com/color/512/react-native.png' width="40" height="40">
+<img align='left' alt='HTML' src='https://img.icons8.com/color/512/html-5.png' width="40" height="40">
+<img align='left' alt='CSS' src='https://img.icons8.com/color/512/css3.png' width="40" height="40">
+<img align='left' alt='CSS' src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-shadow-tal-revivo.png' width="40" height="40">
+<img align='left' alt='CSS' src='https://img.icons8.com/color/512/sass.png' width="40" height="40">
+
+<br/>  
+<br/>  
+<br/> 
+<br/> 
+
+```javascript
+// some secret
+while (noSuccess){
+    tryAgain();
+    if (success){
+        improve();
+    }
+}
+```
+
