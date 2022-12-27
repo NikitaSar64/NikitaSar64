@@ -4,7 +4,7 @@
 - :muscle: I like to write code and move pixels
 - :football: I love sports especially skiing and football
 - :book: I’m constantly learning new things
-- ---
+
 
 ### **Languages and Tools**
 <img align='left' alt='JavaScript' src='https://img.icons8.com/color/512/javascript.png' width="40" height="40">
