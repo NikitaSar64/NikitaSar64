@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Nikita
 ## **I'm Frontend Developer**
----
 
 - :muscle: I like to write code and move pixels
 - :football: I love sports especially skiing and football
